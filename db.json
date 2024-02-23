@@ -1,28 +1,28 @@
-    {
-        "BoundingBoxId": "1",
-        "id": 1,
-        "nombre": "IM S/E CERRO NAVIA J5",
-        "tipoActivoId": "1",
-        "Transforms": {
-            "Ubicacion": {
-                "X": 25810.0,
-                "Y": 12630.0,
-                "Z": 880.0
-            },
-            "Rotacion": {
-                "Pitch": 0.0,
-                "Yaw": 0.0,
-                "Roll": 0.0
-            },
-            "Escala": {
-                "X": 2.0,
-                "Y": 2.75,
-                "Z": 6.75
-            }
+{
+    "BoundingBoxId": "1",
+    "id": 1,
+    "nombre": "IM S/E CERRO NAVIA J5",
+    "tipoActivoId": "1",
+    "Transforms": {
+        "Ubicacion": {
+            "X": 25810.0,
+            "Y": 12630.0,
+            "Z": 880.0
         },
-        "GeoCoordinates": {
-            "Latitud": -33.42290503002777,
-            "Longitud": -70.72943319729396,
-            "Altitud": 534
+        "Rotacion": {
+            "Pitch": 0.0,
+            "Yaw": 0.0,
+            "Roll": 0.0
+        },
+        "Escala": {
+            "X": 2.0,
+            "Y": 2.75,
+            "Z": 6.75
         }
+    },
+    "GeoCoordinates": {
+        "Latitud": -33.42290503002777,
+        "Longitud": -70.72943319729396,
+        "Altitud": 534
     }
+}
